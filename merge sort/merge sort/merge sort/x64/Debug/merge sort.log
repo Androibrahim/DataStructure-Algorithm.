@@ -1,0 +1,3 @@
+﻿  merge sort.cpp
+D:\c++\data_structure\merge sort\merge sort\merge sort\merge sort.cpp(67,15): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  merge sort.vcxproj -> D:\c++\data_structure\merge sort\merge sort\x64\Debug\merge sort.exe

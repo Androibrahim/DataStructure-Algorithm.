@@ -1,0 +1,3 @@
+﻿  selction_sort.cpp
+D:\c++\data_structure\selection sort\selction_sort\selction_sort\selction_sort.cpp(34,18): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  selction_sort.vcxproj -> D:\c++\data_structure\selection sort\selction_sort\x64\Debug\selction_sort.exe

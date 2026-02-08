@@ -1,0 +1,3 @@
+﻿  expretion evaluation.cpp
+D:\c++\data_structure\expretion evaluation\expretion evaluation\expretion evaluation\expretion evaluation.cpp(51,17): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  expretion evaluation.vcxproj -> D:\c++\data_structure\expretion evaluation\expretion evaluation\x64\Debug\expretion evaluation.exe
