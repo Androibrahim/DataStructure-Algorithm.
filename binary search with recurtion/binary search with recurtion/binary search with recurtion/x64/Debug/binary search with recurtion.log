@@ -1,0 +1,4 @@
+﻿  binary search with recurtion.cpp
+D:\c++\data_structure\binary search with recurtion\binary search with recurtion\binary search with recurtion\binary search with recurtion.cpp(29,11): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\c++\data_structure\binary search with recurtion\binary search with recurtion\binary search with recurtion\binary search with recurtion.cpp(23): warning C4715: 'binary_search': not all control paths return a value
+  binary search with recurtion.vcxproj -> D:\c++\data_structure\binary search with recurtion\binary search with recurtion\x64\Debug\binary search with recurtion.exe

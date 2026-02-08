@@ -1,0 +1,4 @@
+﻿  linear probing.cpp
+D:\c++\data_structure\hash table linear probing\linear probing\linear probing\linear probing.cpp(69): warning C4715: 'hash_table::searsh': not all control paths return a value
+D:\c++\data_structure\hash table linear probing\linear probing\linear probing\linear probing.cpp(44): warning C4715: 'hash_table::hash_fun': not all control paths return a value
+  linear probing.vcxproj -> D:\c++\data_structure\hash table linear probing\linear probing\x64\Debug\linear probing.exe
